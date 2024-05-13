@@ -13,6 +13,7 @@ test.xmlなどの中身を
 
 
 Base64エンコードした下記に差し替えてロードさせる。
+前述の内容をUTF-8としてエンコード後、先頭に'base64,'を追加しています。
 
 ```
 base64,PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0idXRmLTgiPz4NCjxMYW5ndWFnZURhdGE+DQogIDx0ZXN0LmxhYmVsPuOBpuOBmeOBqDwvdGVzdC5sYWJlbD4NCjwvTGFuZ3VhZ2VEYXRhPg==
